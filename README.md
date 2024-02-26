@@ -5,6 +5,7 @@ Unity assets to run questionnaire in VR
 To use this in your project you have to be using OpenXR and OpenXR Interaction Toolkit plugins.
 
 #Usage
+Example usage can be seen in TestScene and example code is in Assets/Scripts/ExampleScana.cs
 If you want to use the basic SSQ-questionnaire you have to do:
 
 When you want the user to start filling the questionnaire you need to open the SSQ_Scene using LoadSceneMode.Additive
